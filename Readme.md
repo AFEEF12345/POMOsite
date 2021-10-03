@@ -1,4 +1,4 @@
-we can cahnge the logo
+we can change the logo
 
 images in slider is changed
 
